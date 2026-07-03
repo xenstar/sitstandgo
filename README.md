@@ -1,0 +1,2 @@
+# sitstandgo
+SitStandGo binary releases
