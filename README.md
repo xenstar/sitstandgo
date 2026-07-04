@@ -156,8 +156,6 @@ SitStandGo is Windows-only today. The dream is to have it on every device you mi
 - **Android** app
 - **iPhone** app
 
-If you would like to help with one of these, the codebase is intentionally small and most of the timer logic lives in one file. The hard part for mobile is mostly the tray, icon, and notifications — not the timer itself.
-
 ---
 
 ## ⬇️ Download
@@ -173,6 +171,4 @@ Download the latest Windows build here:
 ## 📄 License
 
 MIT
-
-
 
