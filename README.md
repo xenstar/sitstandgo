@@ -95,7 +95,6 @@ You can confirm, snooze, skip, reset, or switch to the small mini timer if you d
 
 - 20-8-2 cycle: sit, stand, move, repeat
 - Drift-free countdown that stays accurate while minimized
-- Debug mode for quick testing: 20 seconds, 8 seconds, 2 seconds
 - Daily completed-cycle counter
 - Pause, resume, reset, and skip controls
 
@@ -112,7 +111,6 @@ You can confirm, snooze, skip, reset, or switch to the small mini timer if you d
 
 ### 🖥️ Full mode
 
-- Clean 380×540 desktop timer
 - Large circular progress ring
 - Current phase and remaining time
 - Play / pause, reset, and skip buttons
@@ -122,43 +120,13 @@ You can confirm, snooze, skip, reset, or switch to the small mini timer if you d
 
 ### 🪟 Mini mode
 
-- Compact 130×110 timer
+- Compact timer
 - Small circular progress ring
 - Expand, reset, minimize, and close buttons
 - Adjustable opacity
 - Optional always-on-top behavior
 - Designed so the buttons stay clickable on Windows frameless windows
 
-### 🧩 System tray
-
-- Tray icon
-- Open / hide app
-- Play or pause timer
-- Skip phase
-- Reset phase
-- Quit app
-
-### ⚙️ Settings
-
-- Dark / light theme
-- Audio on/off
-- Choose reminder sound
-- Floating popup on/off
-- Mini mode on/off
-- Pin mini timer on top
-- Window opacity
-- Auto-start timer
-- Launch on Windows boot
-- Debug timer mode
-- Manual update check
-
-### 🔄 Updates
-
-- Built-in update checking through GitHub Releases
-- Manual **Check** button in settings
-- Download progress display
-- Installed version can update itself
-- Portable version must be updated manually
 
 ### 🔒 Privacy
 
@@ -176,32 +144,7 @@ Download the latest Windows build here:
 
 **https://github.com/xenstar/sitstandgo/releases/latest**
 
-Recommended file:
-
-```text
-SitStandGo-0.2.9-x64.exe
-```
-
-Portable version:
-
-```text
-SitStandGo-0.2.9-portable.exe
-```
-
 > Note: the app is currently unsigned, so Windows SmartScreen may show a warning on first launch.
-
----
-
-## 🛠️ Tech notes
-
-SitStandGo is built with:
-
-- Electron
-- Vanilla HTML, CSS, and JavaScript
-- electron-builder
-- electron-updater
-
-The app is intentionally small and simple. No React, no Tailwind, no account system, no backend.
 
 ---
 
@@ -209,10 +152,5 @@ The app is intentionally small and simple. No React, no Tailwind, no account sys
 
 MIT
 
----
 
-<div align="center">
 
-**Built because I bought a standing desk and kept forgetting to use it.**
-
-</div>
