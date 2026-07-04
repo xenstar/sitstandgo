@@ -138,6 +138,28 @@ You can confirm, snooze, skip, reset, or switch to the small mini timer if you d
 
 ---
 
+## 🗺️ Roadmap
+
+Here is what I would like to add over the coming versions. These are plans, not promises — just the next things I want to work on.
+
+### 📊 Report and Track Progress
+
+- **Report feature** — a place where you can see the complete report of your sitting, standing, and moving history.
+- **Track progress** — view daily, weekly, and monthly statistics. See your standing streaks and celebrate your health wins.
+
+### 🌐 More platforms
+
+SitStandGo is Windows-only today. The dream is to have it on every device you might want to work from.
+
+- **Mac** version
+- **Linux** version
+- **Android** app
+- **iPhone** app
+
+If you would like to help with one of these, the codebase is intentionally small and most of the timer logic lives in one file. The hard part for mobile is mostly the tray, icon, and notifications — not the timer itself.
+
+---
+
 ## ⬇️ Download
 
 Download the latest Windows build here:
