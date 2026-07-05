@@ -137,7 +137,7 @@ You can confirm, snooze, skip, reset, or switch to the small mini timer if you d
 - No account
 - No cloud sync
 - Settings are stored locally on your computer
-- Anonymous usage analytics
+- No Tracking
 
 ---
 
