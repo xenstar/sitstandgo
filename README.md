@@ -94,10 +94,6 @@ You can confirm, snooze, skip, reset, or switch to the small mini timer if you d
 ### 🆕 What's new in v0.3.x
 
 - **9-language interface** — English, Chinese (Simplified), Japanese, Korean, Spanish, Portuguese, Russian, Turkish, Vietnamese. Pick a language from Settings → Language, or leave it on **Follow system** to match your Windows locale.
-- **Reset always restarts the timer** — even when the timer was paused. Pressing Reset on a paused phase now starts counting down from the full duration of the current phase.
-- **Correct phase text on every transition** — the floating popup and the in-app popover now always show the prompt for the phase you are entering ("I'm moving" after standing finishes, "Yes, sitting" after moving finishes), never a stale default.
-- **Once-a-day update check** — SitStandGo now checks GitHub for a newer release once per day (down from every 4 hours). Existing installed builds will auto-update the next time they open after this version is published.
-- **Optional anonymous usage analytics** — anonymous pageview, launch, heartbeat, and phase-transition events sent to the self-hosted Umami tracker at `git.s99corp.com`. No personal data, no IPs, no cookies. You can opt out by editing `analyticsEnabled` in `%APPDATA%\StandFit\settings.json` to `false`; a Settings toggle is coming soon.
 
 ### ⏱️ Core timer
 
@@ -141,7 +137,7 @@ You can confirm, snooze, skip, reset, or switch to the small mini timer if you d
 - No account
 - No cloud sync
 - Settings are stored locally on your computer
-- Anonymous usage analytics (pageviews, launches, heartbeats, phase transitions) are sent to the self-hosted Umami tracker at `git.s99corp.com` by default. No personal data is collected. You can opt out by editing `analyticsEnabled` in `%APPDATA%\StandFit\settings.json` and setting it to `false`. A Settings toggle is coming soon.
+- Anonymous usage analytics
 
 ---
 
