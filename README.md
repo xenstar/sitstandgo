@@ -9,7 +9,7 @@
 <br/>
 
 [![Download](https://img.shields.io/badge/Download-Windows%20App-2563eb?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/xenstar/sitstandgo/releases/latest)
-[![Version](https://img.shields.io/badge/version-0.3.6-7c3aed?style=for-the-badge)](https://github.com/xenstar/sitstandgo/releases/latest)
+[![Version](https://img.shields.io/badge/version-0.4.1-7c3aed?style=for-the-badge)](https://github.com/xenstar/sitstandgo/releases/latest)
 [![License](https://img.shields.io/badge/license-MIT-16a34a?style=for-the-badge)](#license)
 [![No Telemetry](https://img.shields.io/badge/no-telemetry-f97316?style=for-the-badge)](#privacy)
 
@@ -91,13 +91,14 @@ You can confirm, snooze, skip, reset, or switch to the small mini timer if you d
 
 ## ✨ Features
 
-### 🆕 What's new in v0.3.x
+### 🆕 What's new in v0.4.1
 
 - **9-language interface** — English, Chinese (Simplified), Japanese, Korean, Spanish, Portuguese, Russian, Turkish, Vietnamese. Pick a language from Settings → Language, or leave it on **Follow system** to match your Windows locale.
+- **Custom timer schedule** — choose separate Sit, Stand, and Move durations from 1 to 240 minutes. The default remains the 20-8-2 schedule, and Reset restores those defaults.
 
 ### ⏱️ Core timer
 
-- 20-8-2 cycle: sit, stand, move, repeat
+- Default 20-8-2 cycle with customizable sit, stand, and move durations
 - Drift-free countdown that stays accurate while minimized
 - Daily completed-cycle counter
 - Pause, resume, reset, and skip controls
